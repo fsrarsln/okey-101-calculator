@@ -1,6 +1,6 @@
 # okeyhesaplama
 
-A new Flutter project.
+This is for okey game's okey 101 variation point calculator
 
 ## Getting Started
 
